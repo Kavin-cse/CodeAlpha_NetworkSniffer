@@ -60,6 +60,6 @@ The tool captures packets in real time, displays useful information such as **so
 
 ### 🧑‍💻 Author
 
-**Kavin**
+**Kavin M**
 
 **Cybersecurity Intern — CodeAlpha**
